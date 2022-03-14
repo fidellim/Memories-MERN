@@ -2,16 +2,16 @@
 
 A Full Stack MERN Application using React, Node.js, Express & MongoDB. It is a simple social media app that allows users to post interesting events that happened in their lives.
 
-### Screenshot
+## Screenshot
 
 ![Memories MERN Stack](/images/memories_front_end.png)
 
-### Links
+## Links
 
 - Solution URL: [Solution](https://github.com/fidellim/Memories-MERN)
 - Live Site URL: [Live Site](https://memories-mern-fidellim.netlify.app/)
 
-### Built with
+## Built with
 
 - React
 - Redux
